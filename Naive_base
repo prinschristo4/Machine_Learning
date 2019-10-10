@@ -106,3 +106,7 @@ def main():
 	print('Accuracy:', accuracy,"%")
  
 main()
+
+Output:
+	Split 306 rows into train=205 and test=101 rows
+Accuracy: 76.23762376237624 %
