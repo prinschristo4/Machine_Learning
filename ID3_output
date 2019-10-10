@@ -1,0 +1,18 @@
+
+ Input Data Set is:
+       Outlook Temperature Humidity    Wind Target
+0       sunny         hot     high    weak     no
+1       sunny         hot     high  Strong     no
+2    overcast         hot     high    weak    yes
+3        rain        mild     high    weak    yes
+4        rain        cool   normal    weak    yes
+5        rain        cool   normal  Strong     no
+6    overcast        cool   normal  Strong    yes
+7       sunny        mild     high    weak     no
+8       sunny        cool   normal    weak    yes
+9        rain        mild   normal    weak    yes
+10      sunny        mild   normal  Strong    yes
+11   overcast        mild     high  Strong    yes
+12   overcast         hot   normal    weak    yes
+Target Attribute is:  Target
+Predicting Attributes:  ['Outlook', 'Temperature', 'Humidity', 'Wind']
